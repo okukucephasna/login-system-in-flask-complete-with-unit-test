@@ -1,2 +1,9 @@
 # login-system-in-flask-complete-with-unit-test
-Simple Sign-In/Sign-Up System A straightforward and user-friendly login and registration system built with HTML, Bootstrap, and vanilla JavaScript. This project provides a clean interface for user authentication and a simple dashboard page to display user information after a successful login.  Features User Sign-Up: A registration page (signup.html) with a form for new users to create an account.  Uses Bootstrap for clean, responsive form styling.  Provides a success prompt upon successful account creation.  User Sign-In: A login page (index.html) for existing users to access their accounts.  Validates user credentials (email and password).  Displays a clear error alert for incorrect login attempts.  User Dashboard: A secure dashboard page (dashboard.html) accessible only after a successful login.  Displays the logged-in user's email address.  Features a "Logout" button to end the session.  Unit Testing: Includes a suite of unit tests to ensure the reliability of core functionalities.  Tests for user sign-up, sign-in, and logout processes.
+Simple Sign-In/Sign-Up System A straightforward and user-friendly login and registration system built with HTML, Bootstrap, and vanilla JavaScript. 
+This project provides a clean interface for user authentication and a simple dashboard page to display user information after a successful login.  
+
+Features User Sign-Up: A registration page (signup.html) with a form for new users to create an account.  Uses Bootstrap for clean, responsive form styling.  Provides a success prompt upon successful account creation. 
+
+User Sign-In: A login page (index.html) for existing users to access their accounts.  Validates user credentials (email and password).  Displays a clear error alert for incorrect login attempts.
+
+User Dashboard: A secure dashboard page (dashboard.html) accessible only after a successful login.  Displays the logged-in user's email address.  Features a "Logout" button to end the session.  Unit Testing: Includes a suite of unit tests to ensure the reliability of core functionalities.  Tests for user sign-up, sign-in, and logout processes.

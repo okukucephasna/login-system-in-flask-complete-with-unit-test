@@ -2,7 +2,10 @@ A simple Flask login system with Sign Up, Sign In, and Dashboard pages using MyS
 
 
 Flask Login System with MySQL (PyMySQL) + Unit Tests
-This is a Flask-based user authentication system with full login and registration functionalities. It connects to a MySQL database using PyMySQL, displays user email on the dashboard, and provides feedback via Bootstrap alerts. The project also features unit tests for sign-up, sign-in, and logout actions to ensure reliability and ease of future code changes.
+This is a Flask-based user authentication system with full login and registration functionalities. 
+It connects to a MySQL database using PyMySQL, displays user email on the dashboard, and provides feedback via Bootstrap alerts.
+The project also features unit tests for sign-up, sign-in, and logout actions to ensure reliability and ease of future code changes.
+
 Features
 •	User Registration (Sign Up): Users can register with an email and password. Duplicate accounts are prevented.
 •	User Login (Sign In): Authenticated users can log in and access a personalized dashboard.
@@ -12,6 +15,8 @@ Features
 •	Flash Alerts: Success and error messages displayed after actions.
 •	Unit Testing: Automated testing for signup, login, and logout.
 •	MySQL Database Connection: Secure connection using PyMySQL.
+
+
 📂 Project Structure
 your_project/
 │
@@ -23,7 +28,8 @@ your_project/
 │   └── dashboard.html
 ├── static/css/style.css   # Optional custom CSS
 └── README.md              # Project description
-________________________________________
+
+
 ⚙️ Setup Instructions
 1. Clone the Repository
 git clone https://github.com/your-username/your-repo.git
